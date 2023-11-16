@@ -1,0 +1,6 @@
+//Este archivo tiene que apuntar al resto de archivos de esta carpeta
+//EJ: creas un _colores.scss aqui tienes que poner @forward 'colores';
+@forward 'variables';
+@forward 'mixins';
+@forward 'normalize';
+@forward 'globales';

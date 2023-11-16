@@ -1,0 +1,11 @@
+// @use | Compila solo a los archivos donde se coloca
+// @forward | Apunta al archivo
+// @import | Hace que se apueda compilar a todos los archivos
+
+
+//Todas las carpetas que esten aqui, son las que se van a compilar
+
+@use 'base';
+@use 'layout';
+
+
