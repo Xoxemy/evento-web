@@ -1,13 +1,13 @@
 @use 'variables' as v; //El as v sirve que para que no tengas que poner variable.$fuente_principal, para que solo pongas v.$fuente_principal
 
 html {
-  font-size: 60.5%;
+  font-size: 62.5%;
   box-sizing: border-box;
 }
 
 *,
-*::before,
-*::after {
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
